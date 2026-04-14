@@ -1,0 +1,5 @@
+Artificial Intelligence is transforming industries.
+Machine learning is a core part of AI.
+Semantic search understands meaning not keywords.
+Endee is a vector database.
+RAG combines retrieval with generation.
